@@ -24,7 +24,6 @@ I'm a front end developer junior, mastering the pillar of html css javascript pr
   ##
   
   <div>
-  <a href="https://instagram.com/vinny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank"></a>
   <a href = "mailto:viniciusteicheira10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-teixeira-8b4012206/" target="_blank"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a> 
  </div>
